@@ -2,6 +2,7 @@ package calculadora;
 
 public class Calculator {
 
+    // Método de suma implementado con TDD
     public double sumar(double a, double b) {
         return a + b;
     }
