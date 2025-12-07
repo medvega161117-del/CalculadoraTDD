@@ -7,6 +7,7 @@ public class Calculator {
         return a + b;
     }
 
+    // Método de resta implementado con TDD
     public double restar(double a, double b) {
         return a - b;
     }
