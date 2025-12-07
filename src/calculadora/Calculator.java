@@ -50,6 +50,7 @@ public class Calculator {
         return aproximacion;
     }
 
+    //Metodo funcion exponencial implementado y probado con TDD
     public double exponencial(double x) {
         double suma = 1.0;
         double termino = 1.0;
