@@ -12,6 +12,7 @@ public class Calculator {
         return a - b;
     }
 
+    // Método multiplicar implementado y probado con TDD
     public double multiplicar(double a, double b) {
         return a * b;
     }
