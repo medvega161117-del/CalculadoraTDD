@@ -29,6 +29,7 @@ public class Calculator {
         return x < 0 ? -x : x;
     }
 
+    //Metodo raiz cuadrada implementado y probado con TDD
     public double raizCuadrada(double x) {
         if (x < 0.0) {
             throw new IllegalArgumentException("No se puede calcular la raíz de un número negativo");
